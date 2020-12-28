@@ -43,7 +43,7 @@ const StakeData = () => {
         <h5>Staking</h5>
         <h2>0.015471961 UNIv2</h2>
         <button>Withdraw</button>
-        <p>$ 7</p>
+        <p>$ 5</p>
       </div>
       <hr />
       <div className="forth-div">
