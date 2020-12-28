@@ -25,7 +25,7 @@ const StakeData = () => {
       <hr />
 
       <div  className="first-div">
-        <p>Avaiable to stake</p>
+        <p>Available to stake</p>
         <h2>0 UNIv2</h2>
         <p>$ 0</p>
         <button>stake</button>
@@ -35,10 +35,11 @@ const StakeData = () => {
 
       <div className="second-div">
       <div className="icon-div">
-      <i class="fa fa-clone" aria-hidden="true"></i>
-      <button>Add more liquidity</button>
+      <i class="fa fa-grav" aria-hidden="true"></i>
       <p>Your pool share: <p className="number">0.01%</p> </p>
       </div>
+      <button>Add more liquidity</button>
+      
       <div className="third-div">
         <h5>Staking</h5>
         <h2>0.015471961 UNIv2</h2>
@@ -57,13 +58,10 @@ const StakeData = () => {
         <h2>0.0106160</h2>
         </div>
       </div>
-      <button>Harvest</button>
+      <button className="ending-button">Harvest</button>
       <hr />
 
       </div>
-
-      <div>hello</div>
-
     </div>
 
     
