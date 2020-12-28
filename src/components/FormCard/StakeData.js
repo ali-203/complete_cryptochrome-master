@@ -37,27 +37,30 @@ const StakeData = () => {
       <div className="icon-div">
       <i class="fa fa-clone" aria-hidden="true"></i>
       <button>Add more liquidity</button>
-      <p>Your pool share</p>
+      <p>Your pool share: <p className="number">0.01%</p> </p>
       </div>
       <div className="third-div">
         <h5>Staking</h5>
         <h2>0.015471961 UNIv2</h2>
+        <button>Withdraw</button>
         <p>$ 7</p>
       </div>
+      <hr />
+      <div className="forth-div">
+        <p>Unclaimed rewards</p>
+        <div className="uncl-logo">
+        <img src={headerLogo} height="35" />
+        <h2>UNCL</h2>
+        <p>Wallet balance:</p>
+        </div>
+        <div className="digit">
+        <h2>0.0106160</h2>
+        </div>
+      </div>
+      <button>Harvest</button>
+      <hr />
 
       </div>
-
-
-
-
-
-
-
-
-
-
-
-      
 
     </div>
 
