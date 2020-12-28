@@ -62,14 +62,10 @@ const StakeData = () => {
 
       </div>
 
+      <div>hello</div>
+
     </div>
 
-    
-
-    
-   
-
-    
     
   );
 };
