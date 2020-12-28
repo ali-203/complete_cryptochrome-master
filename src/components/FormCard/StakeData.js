@@ -41,10 +41,10 @@ const StakeData = () => {
       <button>Add more liquidity</button>
       
       <div className="third-div">
-        <h5>Staking</h5>
+        <p>Staking</p>
         <h2>0.015471961 UNIv2</h2>
-        <button>Withdraw</button>
-        <p>$ 5</p>
+        <button className="withdraw">Withdraw</button>
+        <p>$ 7</p>
       </div>
       <hr />
       <div className="forth-div">
