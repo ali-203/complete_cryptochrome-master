@@ -40,3 +40,12 @@
 .stakeFooter i {
     margin: 15px 12px 0px 0px;
 }
+.first-div {
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.available{
+    padding-left: 25px;
+}
+
