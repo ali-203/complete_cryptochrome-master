@@ -24,6 +24,8 @@ const StakeData = () => {
       </div>
       <hr />
 
+      
+
       <div  className="first-div">
         <div className="available">
         <p>Available to stake</p>
@@ -31,13 +33,8 @@ const StakeData = () => {
         <p>$ 0</p>
         </div>
         <button className="stake-button">Stake</button>
-        
-        
-        
       </div>
       <hr />
-
-
       <div className="second-div">
       <div className="icon-div">
       <i class="fa fa-grav" aria-hidden="true"></i>
@@ -68,7 +65,7 @@ const StakeData = () => {
 
       </div>
     </div>
-
+      
     
   );
 };
